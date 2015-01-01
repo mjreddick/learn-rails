@@ -15,7 +15,7 @@ gem 'spring',        group: :development
 # learn-rails
 gem 'foundation-rails', '5.4.5'
 gem 'gibbon'
-gem 'google_drive'
+gem 'google_drive', '0.3.11'
 gem 'high_voltage'
 gem 'simple_form'
 group :development do
